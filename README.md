@@ -7,12 +7,6 @@
 
 
 
-센서 제어
-
-https://user-images.githubusercontent.com/69742329/216995651-85da3f0f-8387-4609-8a2a-d672847a0f9b.mp4
-
-
-
 
 
 
@@ -21,8 +15,14 @@ https://user-images.githubusercontent.com/69742329/216994157-60fc1cc1-4268-4087-
 
 
 
-실시간 영상 스트리밍
+센서 제어
 
+https://user-images.githubusercontent.com/69742329/216998396-cec78f3f-d70a-4401-99a5-9298a1fc8b4c.mp4
+
+
+
+
+실시간 영상 스트리밍
 https://user-images.githubusercontent.com/69742329/216994795-d67ee549-6fd6-440b-a883-41292b57b6e3.mp4
 
 
