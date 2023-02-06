@@ -8,7 +8,9 @@
 
 
 센서 제어
-https://user-images.githubusercontent.com/69742329/216994463-112c95a6-f1ec-4d8b-b8f9-0295011af9b8.mp4
+
+https://user-images.githubusercontent.com/69742329/216995651-85da3f0f-8387-4609-8a2a-d672847a0f9b.mp4
+
 
 
 
