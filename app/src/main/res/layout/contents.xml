@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:backgroundTint="@color/BGC"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <!--스크롤링 뷰 행동을 앱바 (밑)에서 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+    <TextView
+        android:text="  탐지된 방문자 기록"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_date"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:hint="ex) 2022-12-03"
+            android:textStyle="italic"
+            android:textColorHint="@color/gray"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"/>
+        <ImageButton
+            android:id="@+id/ibtn_search"
+            android:backgroundTint="@color/BGC"
+            android:src="@drawable/search"
+            android:layout_width="60dp"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/mainScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:backgroundTint="@color/BGC">
+
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+</LinearLayout>
